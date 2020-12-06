@@ -19,6 +19,15 @@ public class Group {
         this.duration = duration;
     }
 
+    @Override
+    public String toString(){
+        String message = "This group is on " + this.course + " course. ";
+        for(Student s : student){
+            message += s + "\n";
+        }
+       return message;
+    }
+
     public void setStudent(Student[] student){
         this.student = student;
     }

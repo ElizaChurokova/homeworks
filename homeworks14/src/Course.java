@@ -17,6 +17,11 @@ public class Course {
         this.nameOfProfessor = nameOfProfessor;
     }
 
+    @Override
+    public String toString(){
+        String message = "This course is " + this.name + ".";
+        return message;
+    }
 
     public void setName(String name){
         this.name = name;

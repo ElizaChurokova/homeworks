@@ -33,9 +33,8 @@ public class Main {
 
         Farm farmA = new Farm("Isyk-Kul, Aksuu village", cowList, sheepList, horseList, "Askarbek Janybekov");
 
-        Cow cowListB = new Cow(52, 4, 'F', "Darya");
-        Cow[] cowB = new Cow[1];
-        cowList[0] = cowListB;
+        Cow cowB = new Cow(52, 4, 'F', "Darya");
+        Cow[] cowListB = {cowB};
 
         Sheep sheepListB = new Sheep(13, 4,'F',"Kira");
         Sheep[] sheepB = new Sheep[1];
@@ -46,7 +45,7 @@ public class Main {
         horseList[0] = horseListB;
 
 
-        Farm farmB = new Farm("Naryn, Acha-Kaindy village", cowB, sheepB, horsesB, "Bektursun Jumagulov");
+        Farm farmB = new Farm("Naryn, Acha-Kaindy village", cowListB, sheepB, horsesB, "Bektursun Jumagulov");
 
         System.out.println("Farm A:");
         System.out.println("Farm name: Reina-Kench" + ", Address: " + farmA.getAddress()

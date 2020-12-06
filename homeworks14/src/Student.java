@@ -18,6 +18,11 @@ public class Student {
         this.age = age;
     }
 
+    @Override
+    public String toString(){
+        String message = "My name is " + this.name + ". I am " + this.age + " years old. ";
+        return message;
+    }
 
     public void setDateBirth(String dateBirth){
         this.dateBirth = dateBirth;
