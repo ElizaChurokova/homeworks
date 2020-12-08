@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public class Student extends Person{
 
-    String club;
+    private String club;
 
     public Student(){}
 
