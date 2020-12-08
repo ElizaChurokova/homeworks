@@ -1,32 +1,27 @@
-public class Fish {
+package com.company;
+
+public class Cat {
     String name;
-    String color;
     int age;
+    String owner;
 
-    public Fish(){}
+    public Cat(){}
 
-    public Fish(String name, String color, int age){
+    public Cat (String name, int age, String owner){
         this.name = name;
-        this.color = color;
         this.age = age;
+        this.owner = owner;
     }
 
     public void setName(String name){
         this.name = name;
     }
-    public String getName(){
+    public String getName (){
         return name;
     }
 
-    public void setColor(String color){
-        this.color = color;
-    }
-    public String getColor(){
-        return color;
-    }
-
     public void setAge(int age){
-        if (age <= 0){
+        if(age <= 0){
             System.out.println("Age can't be less than 0");
         }
         this.age = age;
@@ -34,6 +29,15 @@ public class Fish {
     public int getAge(){
         return age;
     }
+
+    public void setOwner(String owner){
+        this.owner = owner;
+    }
+    public String getOwner(){
+        return owner;
+    }
+
+
 
 
 }

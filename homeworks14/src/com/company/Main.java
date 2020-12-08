@@ -1,4 +1,4 @@
-import java.time.LocalDate;
+package com.company;
 
 public class Main {
 
@@ -25,10 +25,10 @@ public class Main {
                     +  ", Age: " + group.getStudent()[i].getAge());
         }
         System.out.println();
-        System.out.println("Course information:");
-        System.out.println("Course name: " + course.getName() + ", Creation date: " + course.getDate() + ", ID: " + course.getId() + ", Name of professor: " + course.getNameOfProfessor());
+        System.out.println("com.company.Course information:");
+        System.out.println("com.company.Course name: " + course.getName() + ", Creation date: " + course.getDate() + ", ID: " + course.getId() + ", Name of professor: " + course.getNameOfProfessor());
         System.out.println();
-        System.out.println("Group information:");
+        System.out.println("com.company.Group information:");
         System.out.println("Date of start: " + group.getStartDate() + "Study duration in months: " + group.getDuration());
 
 
@@ -88,7 +88,7 @@ public class Main {
         }
 
         System.out.println();
-        System.out.println("Fish:");
+        System.out.println("com.company.Fish:");
         for (int f = 0; f < fish.length; f++){
             System.out.println("Name: " + fish[f].getName() + ", Color: " + fish[f].getColor() + ", Age: " + fish[f].getAge());
         }

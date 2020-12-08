@@ -1,3 +1,5 @@
+package com.company;
+
 public class Parrot {
     String name;
     String species;

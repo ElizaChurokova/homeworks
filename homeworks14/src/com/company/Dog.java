@@ -1,3 +1,5 @@
+package com.company;
+
 public class Dog {
     String name;
     String owner;
