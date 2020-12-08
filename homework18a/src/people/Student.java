@@ -1,3 +1,5 @@
+package people;
+
 import java.time.LocalDate;
 
 public class Student extends Person{
@@ -14,7 +16,7 @@ public class Student extends Person{
 
     @Override
     public String toString(){
-        String message = "My name is " + this.name + ". I am " + this.age + " years old. ";
+        String message = "My name is " + getName() + ". I am " + getAge() + " years old. ";
         return message;
     }
 

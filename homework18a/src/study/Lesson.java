@@ -1,3 +1,7 @@
+package study;
+
+import people.Student;
+
 import java.time.LocalDate;
 import java.time.LocalTime;
 

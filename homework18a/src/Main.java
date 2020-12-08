@@ -1,3 +1,10 @@
+import people.Professor;
+
+import people.Student;
+import study.Course;
+import study.Group;
+import study.Lesson;
+
 import java.time.LocalDate;
 import java.time.LocalTime;
 
@@ -21,7 +28,7 @@ public class Main {
 
         Group group = new Group(student, "JAVA", "2020.09.15", 10);
         System.out.println(group);
-        Course course = new Course ("JAVA", "2020.05.10", "JV-F20", "Temirbekova Sabina");
+        Course course = new Course("JAVA", "2020.05.10", "JV-F20", "Temirbekova Sabina");
         System.out.println(course);
 
        /* System.out.println("Students: ");
@@ -33,10 +40,10 @@ public class Main {
         }
 
         System.out.println();
-        System.out.println("Course information:");
-        System.out.println("Course name: " + course.getName() + ", Creation date: " + course.getDate() + ", ID: " + course.getId() + ", Name of professor: " + course.getNameOfProfessor());
+        System.out.println("study.Course information:");
+        System.out.println("study.Course name: " + course.getName() + ", Creation date: " + course.getDate() + ", ID: " + course.getId() + ", Name of professor: " + course.getNameOfProfessor());
         System.out.println();
-        System.out.println("Group information:");
+        System.out.println("study.Group information:");
         System.out.println("Date of start: " + group.getStartDate() + "Study duration in months: " + group.getDuration());
 */
 

@@ -1,11 +1,13 @@
+package people;
+
 import java.time.LocalDate;
 
 public class Person {
-    LocalDate dateBirth;
-    String surname;
-    String name;
-    char gender;
-    int age;
+    private LocalDate dateBirth;
+    private String surname;
+    private String name;
+    private char gender;
+    private int age;
 
     public Person(){}
 
