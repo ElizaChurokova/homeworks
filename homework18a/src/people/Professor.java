@@ -3,7 +3,7 @@ package people;
 import java.time.LocalDate;
 
 public class Professor extends Person{
-    String speciality;
+    private String speciality;
 
     public Professor(){}
 

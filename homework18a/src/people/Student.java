@@ -41,19 +41,19 @@ public class Student extends Person{
     }
 
     public LocalDate getDateBirth(){
-        return dateBirth;
+        return getDateBirth();
     }
     public String getSurname(){
-        return surname;
+        return getSurname();
     }
     public String getName(){
-        return name;
+        return getName();
     }
     public char getGender(){
-        return gender;
+        return getGender();
     }
     public int getAge(){
-        return age;
+        return getAge();
     }
 
     public String getClub() {
