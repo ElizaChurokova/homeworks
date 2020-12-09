@@ -3,11 +3,11 @@ package people;
 import java.time.LocalDate;
 
 public class Person {
-    public LocalDate dateBirth;
-    public String surname;
-    public String name;
-    public char gender;
-    public int age;
+    protected LocalDate dateBirth;
+    protected String surname;
+    protected String name;
+    protected char gender;
+    protected int age;
 
     public Person(){}
 

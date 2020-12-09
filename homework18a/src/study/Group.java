@@ -5,15 +5,11 @@ import people.Student;
 import java.time.LocalDate;
 
 public class Group {
-    // •	Массив объектов «Студента»
-    //        •	«Курс»
-    //      •	Дата начала
-// •	Длительность в месяцах
 
-    Student[] student;
-    String course;
-    String startDate;
-    int duration;
+    private Student[] student;
+    private String course;
+    private String startDate;
+    private int duration;
 
     public Group(){}
     public Group(Student[] student, String course, String startDate, int duration){

@@ -5,10 +5,10 @@ import java.time.LocalDateTime;
 
 public class Course {
 
-    String name;
-    String date;
-    String id;
-    String nameOfProfessor;
+    private String name;
+    private String date;
+    private String id;
+    private String nameOfProfessor;
 
     public Course(){}
 

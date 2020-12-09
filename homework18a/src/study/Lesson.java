@@ -6,11 +6,11 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 
 public class Lesson {
-    LocalDate localDate;
-    Student[] student;
-    LocalTime startTime;
-    boolean taskGiven;
-    boolean examDone;
+    private LocalDate localDate;
+    private Student[] student;
+    private LocalTime startTime;
+    private boolean taskGiven;
+    private boolean examDone;
 
     public Lesson(){}
 
