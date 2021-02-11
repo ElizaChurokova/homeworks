@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dade6de9-de23-4bdd-a910-df9eb31ed5d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../homework15/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskA/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskB/MainTaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskB/SongB.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mvyXp3b52jUY53KntFWt4od6BW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="E:/ELIZA/IT academy/JAVA/Projects/Abstraction" />
+  </component>
+  <component name="RunManager" selected="Application.MainTaskB">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TaskA.Main" />
+      <module name="homework27_file" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTaskB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskB.MainTaskB" />
+      <module name="homework27_file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TaskB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MainTaskB" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTaskB" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dade6de9-de23-4bdd-a910-df9eb31ed5d2" name="Default Changelist" comment="" />
+      <created>1610388404230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610388404230</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610423057164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="416" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1610423057164" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1610421537901">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1610421537901" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1610390100964">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610390100964" />
+    <state width="1237" height="167" key="GridCell.Tab.0.bottom" timestamp="1610483594347">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610483594347" />
+    <state width="1237" height="167" key="GridCell.Tab.0.center" timestamp="1610483594347">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1610483594347" />
+    <state width="1237" height="167" key="GridCell.Tab.0.left" timestamp="1610483594347">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1610483594347" />
+    <state width="1237" height="167" key="GridCell.Tab.0.right" timestamp="1610483594347">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1610483594347" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1610422735628">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1610422735628" />
+  </component>
+</project>
