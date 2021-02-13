@@ -1,3 +1,58 @@
+--Extra task
+create table courses(
+course_id INTEGER primary key,
+course_name VARCHAR(20) not null
+); 
+insert into courses(course_id, course_name)
+values(1, 'JAVA'), (2, 'C#'), (3, 'PITON'), (4, 'C++')
+
+create table groupp(
+group_id INTEGER primary key,
+group_name VARCHAR(20) not null,
+course_id INTEGER references courses(course_id)
+);
+insert into groupp(group_id, group_name, course_id)
+values(1, 'JAVACAKE', 1), (2, 'UNICORNE', 1), (3, 'BIGSTARS', 3), (4, 'ITSTAR', 2), (5, 'MONSTERS', 3)
+
+create table studentt(
+student_id INTEGER primary key,
+student_name VARCHAR(50) not null,
+group_id INTEGER references groupp(group_id)
+);
+insert into studentt( student_id, student_name, group_id)
+values(1, 'Eliza Churokova', 2), (2, 'Ermek Nalypov', 2), (3, 'Rauan Maksut', 2), (4, 'Chyngyz Uson', 1), (5, 'Maksat Fry', 3), (6, 'Alina Apina', 4), (7, 'Viktor Kiriyak', 5)
+
+create table trainerss(
+trainer_id INTEGER primary key,
+trainer_name VARCHAR(50) not null,
+course_id INTEGER not null references courses(course_id)
+);
+insert into trainerss(trainer_id, trainer_name, course_id)
+values(1, 'Sabina Temirbekova', 1), (2, 'Chyngyz Akimov', 2), (3, 'Anna Larina', 3), (4, 'Lena Aripova', 4)
+
+create table lessons(
+lesson_id INTEGER primary key,
+lesson_date TIMESTAMP not null,
+lesson_name VARCHAR(50) not null,
+course_id INTEGER references courses(course_id),
+group_id INTEGER references groupp(group_id)
+);
+insert into lessons(lesson_id, lesson_date, lesson_name, course_id, group_id)
+values(1, '2021-02-01', 'SQL_INTRODUCTION', 1, 2),
+(2, '2021-02-03', 'SQL_CONTINUE', 1, 2),
+(3, '2021-02-05', 'PITON_TOPIC', 3, 3)
+
+create table homeworks(
+hw_id INTEGER primary key,
+hw_deadline TIMESTAMP not null,
+lesson_id INTEGER references lessons(lesson_id),
+course_id INTEGER references courses(course_id)
+);
+insert into homeworks(hw_id, hw_deadline, lesson_id, course_id)
+values(1, '2021-02-02', 1, 1),
+(2, '2021-02-04', 2, 1),
+(3, '2021_02-06', 3, 3)
+
 --Homework 35: TASK B
 create table subjects(
 subject_id INTEGER primary key,
@@ -51,10 +106,10 @@ subject_id INTEGER references subjects(subject_id)
 insert into grades(student_id, grade, subject_id)
 values(1, 4, 5), (2, 3, 6), (3, 5, 1), (4, 5, 2), (5, 4, 1), (6, null, 2)
 
--- ??????? ?????????????? ??????:
+-- select avg:
 select Avg(Grade) from Grades  
 
--- ???? ?? ????????
+-- select info
 select s.student_full_name, g.group_code, d.department_name, u.university_name
 from students s
 join groupss g on g.group_id = s.group_id 
@@ -63,7 +118,7 @@ join universities u on u.university_id = d.university_id
 
 
 
--- Homework 35: TASK ?
+-- Homework 35: TASK A
 select s.visitor_full_name, 
 t.trainer_full_name, v.visit_time
 from visits v
