@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0831991-e970-4123-9df2-186a00be7a90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/CarDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework44_hashmapnew/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework44_hashmapnew/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework44_hashmapnew/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework44_hashmapnew/src/WeekDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework45_treeSet/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework45_treeSet/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework45_treeSet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework45_treeSet/src/Cities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/src/com/company/UserDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/src/com/company/UserDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework18a" beforeDir="false" afterPath="$PROJECT_DIR$/../homework18a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework26_Polimorphism/homework26_Polimorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework26_Polimorphism/homework26_Polimorphism.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework28_Exception/homework28_Exception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework28_Exception/homework28_Exception.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework29_ArrayList/homework29_ArrayList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework29_ArrayList/homework29_ArrayList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework30_LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework30_LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31_ArL_LiL_Arr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31_ArL_LiL_Arr/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework34_Dbeaver/Script.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../homework34_Dbeaver/Script.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework35_Dbeaver2/Hw 35 Script-3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../homework35_Dbeaver2/Hw 35 Script-3.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework42_new/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework42_new/src/main/java/servlet/NewServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/src/main/java/servlet/NewServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework42_new/src/main/webapp/submissions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/src/main/webapp/submissions.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework42_new/target/classes/servlet/NewServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/target/classes/servlet/NewServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25_2_Interface/hw25_2_Interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw25_2_Interface/hw25_2_Interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25_interface/hw25_interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw25_interface/hw25_interface.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pWQGWKJFJ54MMHkujE0exRehI7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled104" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0831991-e970-4123-9df2-186a00be7a90" name="Default Changelist" comment="" />
+      <created>1615296271072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615296271072</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="511" y="82" key="FileChooserDialogImpl" timestamp="1615296531118">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="511" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1615296531118" />
+    <state x="181" y="0" key="new project wizard" timestamp="1615296533031">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="181" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1615296533031" />
+  </component>
+</project>

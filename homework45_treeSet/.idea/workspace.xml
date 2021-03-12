@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d3442f9-6e33-4ff9-b3d5-1b0875c9a0ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/src/com/company/UserDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/src/com/company/UserDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework18a" beforeDir="false" afterPath="$PROJECT_DIR$/../homework18a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework26_Polimorphism/homework26_Polimorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework26_Polimorphism/homework26_Polimorphism.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework28_Exception/homework28_Exception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework28_Exception/homework28_Exception.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework29_ArrayList/homework29_ArrayList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework29_ArrayList/homework29_ArrayList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework30_LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework30_LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31_ArL_LiL_Arr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31_ArL_LiL_Arr/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework34_Dbeaver/Script.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../homework34_Dbeaver/Script.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework35_Dbeaver2/Hw 35 Script-3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../homework35_Dbeaver2/Hw 35 Script-3.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/CarDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/CarDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework42_new/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework42_new/src/main/java/servlet/NewServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/src/main/java/servlet/NewServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework42_new/src/main/webapp/submissions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/src/main/webapp/submissions.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework42_new/target/classes/servlet/NewServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/target/classes/servlet/NewServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework42_new_redone/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new_redone/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework44_hashmapnew/src/WeekDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework44_hashmapnew/src/WeekDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25_2_Interface/hw25_2_Interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw25_2_Interface/hw25_2_Interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25_interface/hw25_interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw25_interface/hw25_interface.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="homework42_new_redone" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pW2QGDXGVtJVxzSaXIPyZxor6i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homework44_hashmap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="homework45_treeSet" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d3442f9-6e33-4ff9-b3d5-1b0875c9a0ba" name="Default Changelist" comment="" />
+      <created>1615284509575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615284509575</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="782" y="39" key="#com.intellij.ide.util.MemberChooser" timestamp="1615376491325">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="782" y="39" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1615376491325" />
+    <state x="757" y="78" key="FileChooserDialogImpl" timestamp="1615296268680">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="757" y="78" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1615296268680" />
+    <state width="1237" height="128" key="GridCell.Tab.0.bottom" timestamp="1615468249527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="128" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1615468249527" />
+    <state width="1237" height="128" key="GridCell.Tab.0.center" timestamp="1615468249527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="128" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1615468249527" />
+    <state width="1237" height="128" key="GridCell.Tab.0.left" timestamp="1615468249527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="128" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1615468249527" />
+    <state width="1237" height="128" key="GridCell.Tab.0.right" timestamp="1615468249527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="128" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1615468249527" />
+    <state x="422" y="54" key="git4idea.branch.GitSmartOperationDialog" timestamp="1615520440088">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="54" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.680@0.0.1280.680" timestamp="1615520440088" />
+  </component>
+</project>
