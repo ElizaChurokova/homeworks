@@ -20,27 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d3442f9-6e33-4ff9-b3d5-1b0875c9a0ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/src/com/company/UserDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/src/com/company/UserDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework18a" beforeDir="false" afterPath="$PROJECT_DIR$/../homework18a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework26_Polimorphism/homework26_Polimorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework26_Polimorphism/homework26_Polimorphism.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework28_Exception/homework28_Exception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework28_Exception/homework28_Exception.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework29_ArrayList/homework29_ArrayList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework29_ArrayList/homework29_ArrayList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework30_LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework30_LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework31_ArL_LiL_Arr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31_ArL_LiL_Arr/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework34_Dbeaver/Script.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../homework34_Dbeaver/Script.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework35_Dbeaver2/Hw 35 Script-3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../homework35_Dbeaver2/Hw 35 Script-3.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/CarDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/CarDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework42_new/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework42_new/src/main/java/servlet/NewServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/src/main/java/servlet/NewServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework42_new/src/main/webapp/submissions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/src/main/webapp/submissions.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework42_new/target/classes/servlet/NewServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/target/classes/servlet/NewServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework42_new_redone/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new_redone/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework44_hashmapnew/src/WeekDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework44_hashmapnew/src/WeekDays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw25_2_Interface/hw25_2_Interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw25_2_Interface/hw25_2_Interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw25_interface/hw25_interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw25_interface/hw25_interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +36,22 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="homework19a" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="homework42_new_redone" />
+        <entry key="$PROJECT_DIR$/.." value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -69,6 +63,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../homework44_hashmap" />
   </component>
   <component name="RunManager">
@@ -97,6 +94,14 @@
       <option name="presentableId" value="Default" />
       <updated>1615284509575</updated>
     </task>
+    <task id="LOCAL-00001" summary="hw45">
+      <created>1615520776941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615520776941</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +115,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw45" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw45" />
   </component>
   <component name="WindowStateProjectService">
     <state x="782" y="39" key="#com.intellij.ide.util.MemberChooser" timestamp="1615376491325">
@@ -136,6 +145,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="128" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1615468249527" />
+    <state x="233" y="61" key="Vcs.Push.Dialog.v2" timestamp="1615520782627">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="61" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1615520782627" />
     <state x="422" y="54" key="git4idea.branch.GitSmartOperationDialog" timestamp="1615520440088">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

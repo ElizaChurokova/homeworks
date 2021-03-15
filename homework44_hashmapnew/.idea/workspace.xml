@@ -20,35 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1f836ae-5b2a-4d69-8ab3-5f8ec47e76b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/CarDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework44_hashmap/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework44_hashmap/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework45_treeSet/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework45_treeSet/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../homework45_treeSet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework45_treeSet/src/Cities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/src/com/company/UserDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/src/com/company/UserDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework18a" beforeDir="false" afterPath="$PROJECT_DIR$/../homework18a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework26_Polimorphism/homework26_Polimorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework26_Polimorphism/homework26_Polimorphism.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework28_Exception/homework28_Exception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework28_Exception/homework28_Exception.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework29_ArrayList/homework29_ArrayList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework29_ArrayList/homework29_ArrayList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework30_LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework30_LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework31_ArL_LiL_Arr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31_ArL_LiL_Arr/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework34_Dbeaver/Script.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../homework34_Dbeaver/Script.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework35_Dbeaver2/Hw 35 Script-3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../homework35_Dbeaver2/Hw 35 Script-3.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework37_JDCB/src/com/company/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework42_new/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework42_new/src/main/java/servlet/NewServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/src/main/java/servlet/NewServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework42_new/src/main/webapp/submissions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/src/main/webapp/submissions.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework42_new/target/classes/servlet/NewServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homework42_new/target/classes/servlet/NewServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw25_2_Interface/hw25_2_Interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw25_2_Interface/hw25_2_Interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw25_interface/hw25_interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw25_interface/hw25_interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework45_treeSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework45_treeSet/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,5 +77,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
